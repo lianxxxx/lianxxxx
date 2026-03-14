@@ -36,9 +36,3 @@ The unfamiliar doesn't stop me — it's usually what gets me started.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lianxxxx&theme=tokyonight&hide_border=true" height="150"/>
-</div>
