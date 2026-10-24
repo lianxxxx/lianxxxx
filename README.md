@@ -7,7 +7,7 @@ The unfamiliar doesn't stop me — it's usually what gets me started.
 > *Currently: deep in React/Next.js, chasing TypeScript mastery, and building in public.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leyannemayo.vercel.app-black?style=for-the-badge&logo=vercel)](https://leyannemayo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-leyanne.mayo@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:leyanne.mayo@outlook.com)
+
 
 ---
 
