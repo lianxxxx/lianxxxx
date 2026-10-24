@@ -2,11 +2,11 @@
 
 I'm into frontend development and genuinely enjoy the process of building things, from concept, to first line of code, to deployment. I have a habit of exploring tech simply because something in it speaks to me, the more complex it is, the more I want to sit with it. I love how it stresses me out, the slow click of understanding, the moment it finally makes sense. That's exactly what keeps me going.
 
-The unfamiliar doesn't stop me — it's usually what gets me started.
+The unfamiliar doesn't stop me, it's usually what gets me started.
 
 > *Currently: deep in React/Next.js, chasing TypeScript mastery, and building in public.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leyannemayo.vercel.app-black?style=for-the-badge&logo=vercel)](https://leyannemayo.vercel.app)
+
 
 
 ---
